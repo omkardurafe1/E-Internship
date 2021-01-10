@@ -102,4 +102,14 @@ This are the files of Desktop Appllication :
 
     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/LoginDemo.png)
 
+    #
  
+ ## **References:-**
+
+1. [**What is PyQt?**](https://www.riverbankcomputing.com/software/pyqt/)
+2. [**How to Install PIP**](https://pypi.org/project/PyQt5/)
+3. [**Pycharm integrates Qt Designer for python3**](https://www.programmersought.com/article/5165681028/)
+4. [**Date Time**](https://docs.python.org/3/library/datetime.html)
+5. [**Qt Style Sheets**](https://doc.qt.io/qt-5/stylesheet.html)
+6. [**Latest Color Palettes**](https://colorsinspo.com/)
+7. [**The color system**](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
