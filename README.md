@@ -44,7 +44,9 @@ This are the files of Desktop Appllication :
     ![Company snap Forms](/ESnaps/PurchaseGroupInfo.png)
 
 7. **Collection**
+
     This form is for Collection of milk having diff fields this are the properties of Milk.
+
     ![Company snap Forms](/ESnaps/Collection.png)
     #
 
@@ -85,3 +87,9 @@ This are the files of Desktop Appllication :
 
      ![Order Accept](/ESnaps/Supplierlist.png)
     #
+
+16. Company
+
+    In this form i had faces some issus reagarding the Layouts and i have solved this problem with the help of [PYQT5 Decomentation](https://doc.qt.io/qt-5/layout.html)
+
+![Company snap Forms](/ESnaps/CompanyInformation.jpg)
