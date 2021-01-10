@@ -83,5 +83,5 @@ This are the files of Desktop Appllication :
 
 15. **Supplierlist**
 
-     ![Company snap Forms](/ESnaps/Supplierlist.png)
+     ![](/ESnaps/Supplierlist.png)
     #
