@@ -13,4 +13,4 @@ This are the files of Desktop Appllication :
    
    
    
-   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Collection.png)
+   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
