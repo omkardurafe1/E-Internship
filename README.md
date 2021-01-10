@@ -73,7 +73,7 @@ This are the files of Desktop Appllication :
 
 12. **Invoice**
 
-     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/invoice.png)
+     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Invoice.png)
     #
 
 13. **Order Accept**
@@ -88,7 +88,7 @@ This are the files of Desktop Appllication :
 
 15. **Supplierlist**
 
-     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Supplierlist.png)
+     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/SupplierList.png)
     #
 
 16. Company
