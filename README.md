@@ -91,8 +91,9 @@ This are the files of Desktop Appllication :
      ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/SupplierList.png)
     #
 
-16. Company
+16. **Login**
+    In this form i tried new Gradient and learn new Qwidgets property and learn  how to use css  with Python from  [Youtub.](https://www.youtube.com/watch?v=Hsp20Gq4ihw&t=547s)
 
-    In this form i had faces some issus reagarding the Layouts and i have solved this problem with the help of [PYQT5 Decomentation](https://doc.qt.io/qt-5/layout.html)
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/LoginDemo.png)
+    #
 
-![Company snap Forms](/ESnaps/CompanyInformation.jpg)
