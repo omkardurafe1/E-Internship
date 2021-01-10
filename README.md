@@ -32,7 +32,7 @@ This are the files of Desktop Appllication :
 
 4. **Company Information**
 
-   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/companyinformation.jpg) 
+   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/CompanyInformation.jpg) 
    #
 5. **Sale Group**
 
