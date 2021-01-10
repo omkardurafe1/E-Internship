@@ -102,8 +102,4 @@ This are the files of Desktop Appllication :
 
     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/LoginDemo.png)
 
-    <a href="https://www.youtube.com/watch?v=Hsp20Gq4ihw&t=547s
-    " target="_blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FYouTube-Emblem.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Fyoutube-logo%2F&tbnid=S_3qWD2dL8Sy_M&vet=12ahUKEwi6nYCE9ZDuAhVGOysKHQkwARQQMygCegUIARDUAQ..i&docid=WPGE3i0WPJ_MpM&w=3840&h=2160&q=youtube%20logo&ved=2ahUKEwi6nYCE9ZDuAhVGOysKHQkwARQQMygCegUIARDUAQ" 
-    alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
-    #
-
+ 
