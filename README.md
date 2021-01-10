@@ -11,4 +11,4 @@ This are the files of Desktop Appllication :
    After the installation and grasping the knowledge about PYQT5 and Qt-designer This is the first form that i created. In this form i had a issus with a imgage inserting this Prob I solve from this Site [How to Insert Image in QT designer.](https://www.techwithtim.net/tutorials/pyqt5-tutorial/images/) 
    
    
-   ![Company snap Forms](/ESnaps/MainWindow.jpg)
+   ![Company snap Forms](/ESnaps/Collection.png)
