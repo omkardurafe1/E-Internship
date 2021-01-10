@@ -14,3 +14,85 @@ This are the files of Desktop Appllication :
    
    
    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+   #
+
+2. **User Information**
+    
+    This form is created for to Add the user to System and store the data.
+       
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+3.  **Company Name**  
+        This Form is created to save the Rate Record of User.
+        In this form i was used gradient on baground .I had took the help of this [Qt-Stylesheet-Gradient.](https://www.qtcentre.org/threads/32783-Style-Sheet-with-Gradient-Background), and [Color Usage and Color palettes](https://material.io/design/color/the-color-system.html#color-usage-and-palettes) 
+    
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+4. **Company Information**
+
+   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg) 
+   #
+5. **Sale Group**
+
+    This form is created for to registere seller group and maintain the data.
+
+   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+   #
+6. **Purchase Group**
+     
+     This form is created for to registere Purchase group and maintain the data.
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+7. **Collection**
+
+    This form is for Collection of milk having diff fields this are the properties of Milk.
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+8. **Item Batch Information Master**
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+9. **Bank-Master**
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+10. **Crate Transactions**
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+11. **Deliver Challan**
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+12. **Invoice**
+
+     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+13. **Order Accept**
+
+     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+    
+14. **Purchase Order**
+
+     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+15. **Supplierlist**
+
+     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    #
+
+16. Company
+
+    In this form i had faces some issus reagarding the Layouts and i have solved this problem with the help of [PYQT5 Decomentation](https://doc.qt.io/qt-5/layout.html)
+
+![Company snap Forms](/ESnaps/CompanyInformation.jpg)
