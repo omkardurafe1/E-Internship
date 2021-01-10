@@ -21,7 +21,7 @@ This are the files of Desktop Appllication :
     This form is created for to Add the user to System and store the data.
        
 
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/MainWindow.jpg)
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/User_Login.png)
     #
 3.  **Company Name**  
         This Form is created to save the Rate Record of User.
