@@ -91,7 +91,14 @@ This are the files of Desktop Appllication :
      ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/SupplierList.png)
     #
 
-16. **Login**
+16. **Center Information**
+
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/CenterInformation.png)
+    #
+
+17. **Login**
+
+
     In this form i tried new Gradient and learn new Qwidgets property and learn  how to use css  with Python from  [Youtub.](https://www.youtube.com/watch?v=Hsp20Gq4ihw&t=547s)
 
     ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/LoginDemo.png)
